@@ -2,7 +2,7 @@
 
 ## Downloads
 
-1. Download and Install [NodeJs](https://nodejs.org/en/) `v16.16.x LTS`
+1. Download and Install [NodeJs](https://nodejs.org/en/) LTS
 2. Click the green Code button at the top of this page and click `Download ZIP` in the Local tab
 
 ## Installation
